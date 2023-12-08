@@ -6,10 +6,10 @@ Disk 02 Reto Scan
 5.	LEPURI_5_DPX
 6.	ROJET_5_DPX
 7.	ROJET_6_DPX
-      /LEPURI_1_DPX.md5
-       LEPURI_2_DPX.md5
-       LEPURI_3_DPX.md5
-       LEPURI_4_DPX.md5
-       LEPURI_5_DPX.md5
-       ROJET_5_DPX.md5
-       ROJET_6_DPX.md5
+      /1. LEPURI_1_DPX.md5
+       2. LEPURI_2_DPX.md5
+       3. LEPURI_3_DPX.md5
+       4. LEPURI_4_DPX.md5
+       5. LEPURI_5_DPX.md5
+       6. ROJET_5_DPX.md5
+       7. ROJET_6_DPX.md5
