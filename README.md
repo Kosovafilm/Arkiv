@@ -1,7 +1,15 @@
 Disk 02 Reto Scan
-1.	PROKA_1DPXProka_010nnnnn.dpx
-2.	PROKA_2DPXProka_020nnnnn.dpx
-3.	PROKA_3DPXProka_030nnnnn.dpx
-4.	PROKA_4DPXProka_040nnnnn.dpx
-5.	PROKA_5DPXProka_050nnnnn.dpx
-6.	PROKA_6DPXProka_060nnnnn.dpx
+1.	LEPURI_1_DPX
+2.	LEPURI_2_DPX
+3.	LEPURI_3_DPX
+4.	LEPURI_4_DPX
+5.	LEPURI_5_DPX
+6.	ROJET_5_DPX
+7.	ROJET_6_DPX
+      /LEPURI_1_DPX.md5
+       LEPURI_2_DPX.md5
+       LEPURI_3_DPX.md5
+       LEPURI_4_DPX.md5
+       LEPURI_5_DPX.md5
+       ROJET_5_DPX.md5
+       ROJET_6_DPX.md5
